@@ -4,3 +4,5 @@ E3: Minimize energy spread in DFT of sinusoids, symmetry properties of the DFT, 
 
 E4: Extracting the main lobe of the spectrum of a window, measuring noise in the reconstructed signal using the STFT model, computing band-wise energy envelopes of a signal and computing an onset detection function.
 
+E5: Minimizing the frequency estimation error of a sinusoid, tracking a two component chirp, tracking sinusoids of different amplitudes, and sinusoidal modeling of a multicomponent signal.
+
