@@ -9,3 +9,5 @@ E5: Minimizing the frequency estimation error of a sinusoid, tracking a two comp
 E6: Estimate fundamental frequency, f_0, in an polyphonic audio file, segmentation of stable note regions in an audio signal using f_0, compute amount of inharmonicity present in a sound, and improving the implementation of the two way mismatch f_0 estimation algorithm.
 
 E7: Harmonic + stochastic modeling of different sounds.
+
+E8: Cepstral analysis of a speech sound.
